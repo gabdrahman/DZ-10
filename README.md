@@ -1,11 +1,5 @@
-﻿# Java Core (семинары)
-
-![picture for project](https://github.com/gabdrahman/DZ-10/blob/main/src/main/resources/Java_core.jpg)
 
 ## Урок 5. Тонкости работы
-
-[к решению 1 ЗАДАЧИ](https://github.com/Terekhov-A-S/Java_core_seminar5/tree/main#задача-1)  ||  [к решению 2 ЗАДАЧИ](https://github.com/Terekhov-A-S/Java_core_seminar5/tree/main#решение-1)  ||  [перейти в папку Java](https://github.com/Terekhov-A-S/Java_core_seminar5/tree/main/src/main/java)
-
 
 ### Задача 1.
 
@@ -55,7 +49,7 @@ public class BackupUtility {
 ```
 
 В нашем конкретном случае, для проверки работоспособности, будем использовать вместо "./source" путь "."
-В результате выполнения нашего кода в корне будет создана директория с именем ["backup"](https://github.com/Terekhov-A-S/Java_core_seminar5/tree/main/backup)
+В результате выполнения нашего кода в корне будет создана директория с именем ["backup"](https://github.com/gabdrahman/DZ-10/tree/main/backup)
 
 ![Backup_folder](https://github.com/gabdrahman/DZ-10/blob/main/src/main/resources/Backup.png)
 
