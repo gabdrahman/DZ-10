@@ -97,7 +97,7 @@ public class WriteToFile {
 Этот код создает массив gameBoard и записывает его значения в файл "tic-tac-toe_board.dat" с использованием DataOutputStream. 
 Обращаем внимание, что значения [0, 3] на самом деле представляют собой байты, и мы сами можем декодировать их при необходимости.
 
-![Size_for_tic-tac-toe_board](https://raw.githubusercontent.com/Terekhov-A-S/Java_core_seminar5/main/src/main/resources/size_for_tic-tac-toe_board.png)
+![Size_for_tic-tac-toe_board](https://github.com/gabdrahman/DZ-10/blob/main/src/main/resources/size_for_tic-tac-toe_board.png)
 
 Теперь каждое значение записывается как байт, и всего 9 значений займут 9 байт, что соответствует требованиям задачи. 
 
@@ -149,6 +149,3 @@ public class ReadFromFile {
 
 
 ---
-
-
-*Подготовил студент Geek Brains* [**`Терехов Александр`**](https://gb.ru/users/1db43d0f-6c3d-46d1-bf5e-974b49af6f0d), Java_core_seminar5# DZ-10
