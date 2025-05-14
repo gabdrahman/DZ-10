@@ -1,6 +1,6 @@
 ﻿# Java Core (семинары)
 
-![picture for project](https://raw.githubusercontent.com/Terekhov-A-S/Java_core_seminar5/main/src/main/resources/Java_core.jpg)
+![picture for project](https://github.com/gabdrahman/DZ-10/blob/main/src/main/resources/Java_core.jpg)
 
 ## Урок 5. Тонкости работы
 
